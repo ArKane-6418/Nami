@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Nami Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+The backend was written in Solidity and I used [Hardhat](https://hardhat.org/) as my environment. I used [QuickNode](https://www.quicknode.com/) to deploy my contract to the Goerli testnet. You can check out the corresponding frontend [here](https://github.com/ArKane-6418/Nami-Frontend).
